@@ -1,10 +1,7 @@
 
-# Integration Test
+# Pruebas de integracion 
+## y su configuracion en maven
 
-From the terminal, pop in:
+ ```presentado por Abraham Vargas``` <!-- .element: class="fragment" --> 
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+ ![](resources/twd_logo_only.png) <!-- .element: class="fragment" --> 
